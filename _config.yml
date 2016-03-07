@@ -1,7 +1,7 @@
 name: AJ_Grid_test
 favicon: null
-layout_spectrum: 0.92502
-typography_spectrum: 0.24673
+layout_spectrum: 0
+typography_spectrum: 0.14578
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#080904'
-    - '#f3d9dc'
-    - '#2c303b'
-    - '#b59598'
-    - '#70636d'
+    - '#010300'
+    - '#3a352f'
+    - '#fefef9'
+    - '#736a65'
+    - '#a1a294'
   brandStrength: 0.25
   lightness: 0.8125
   saturation: 0.6875
