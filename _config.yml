@@ -2,6 +2,7 @@ name: AJ_Grid_test
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.14578
+title: Testing
 cta:
   domain: null
   bucket: null
