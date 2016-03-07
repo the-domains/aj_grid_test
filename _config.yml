@@ -1,6 +1,6 @@
 name: AJ_Grid_test
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.26747
 typography_spectrum: 0.14578
 title: Testing
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fefef9'
     - '#736a65'
     - '#a1a294'
-  brandStrength: 0.75
+  brandStrength: 0.375
   lightness: 0.8125
-  saturation: 0.1875
+  saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
