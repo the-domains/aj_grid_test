@@ -1,0 +1,28 @@
+name: AJ_Grid_test
+favicon: null
+layout_spectrum: 0.18903799261897802
+typography_spectrum: 0.11817351705394685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2646323358640075
+  lightness: 0.3961990303359926
+  saturation: 0.7351130892056972
+  rhythmicContrast: 0.7283932499121875
+purpose: []
