@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Testing]]></title>
         <description><![CDATA[Testing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aj_grid_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 16:50:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 16:56:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aj_grid_test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Section]]></title>
-            <description><![CDATA[<h1>New Section</h1>]]></description>
-            <link>undefinednew-section/index.html</link>
+            <description><![CDATA[<article><h1>New Section</h1><p>The idea being that this should come down from the main page, but how does one order the posts?</p></article>]]></description>
+            <link>https://thegrid.ai/aj_grid_test/new-section/index.html</link>
             <guid isPermaLink="false">1e1253bf-87da-462b-b38f-7a0d14ec76f1</guid>
-            <pubDate>Mon, 07 Mar 2016 16:50:02 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 16:56:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
